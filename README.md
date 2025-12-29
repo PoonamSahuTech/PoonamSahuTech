@@ -1,17 +1,15 @@
 # Hi there 👋, I'm Poonam Sahu
 
 I love solving complex business problems using Data Science, Machine Learning, and AI.  
-My GitHub profile showcases Python, SQL, NLP, Deep Learning, and Data Analytics projects.  
+My GitHub profile showcases Python, SQL, NLP, Deep Learning, and Data Analytics projects.
 I focus on delivering real-world solutions with predictive models, visualizations, and AI applications.
 
 ---
 
 ## 📌 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poonamsahu)  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@poonamsahu)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://poonamsahu.com)
-
+https://www.linkedin.com/in/poonam-tech/
+https://www.naukri.com/mnjuser/profile?id=&altresid
 ---
 
 ## 🚀 Currently working on
@@ -26,7 +24,7 @@ Python | SQL | Machine Learning | Deep Learning | NLP | Data Analytics | Streaml
 ---
 
 ## 📊 GitHub Stats
-![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonamsahu&show_icons=true&theme=radical)
+#![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonamsahu&show_icons=true&theme=radical)
 
 ---
 
