@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Poonam Sahu
 
-<!--
-**PoonamSahuTech/PoonamSahuTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love solving complex business problems using Data Science, Machine Learning, and AI.  
+My GitHub profile showcases Python, SQL, NLP, Deep Learning, and Data Analytics projects.  
+I focus on delivering real-world solutions with predictive models, visualizations, and AI applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poonamsahu)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@poonamsahu)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://poonamsahu.com)
+
+---
+
+## 🚀 Currently working on
+- **AI-Powered Educational Content Generator** – Generates structured educational content from PDFs using Python & Google Gemini AI.  
+- **Brain Tumor Detection Project** – Detect brain tumors in MRI scans using Deep Learning.  
+
+---
+
+## 🛠️ Skills
+Python | SQL | Machine Learning | Deep Learning | NLP | Data Analytics | Streamlit | Tableau | TensorFlow | Keras | OpenCV
+
+---
+
+## 📊 GitHub Stats
+![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonamsahu&show_icons=true&theme=radical)
+
+---
+
+## 📁 Featured Projects
+### AI-Powered Educational Content Generator
+- **Tools:** Python, Streamlit, PyPDF2, Google Gemini AI  
+- **Repo:** [Link](https://github.com/poonamsahu/educational-content-generator)
+
+### Brain Tumor Detection
+- **Tools:** Python, TensorFlow, Keras, OpenCV  
+- **Repo:** [Link](https://github.com/poonamsahu/brain-tumor-detection)
+
+---
+
+## 📫 How to reach me
+- **Email:** poonam.sahu2022@example.com  
+- **LinkedIn:** [Poonam Sahu](https://www.linkedin.com/in/poonamsahu)  
