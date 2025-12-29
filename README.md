@@ -5,11 +5,10 @@ My GitHub profile showcases Python, SQL, NLP, Deep Learning, and Data Analytics 
 I focus on delivering real-world solutions with predictive models, visualizations, and AI applications.
 
 ---
+# Connect with me:
 
-## 📌 Connect with me
-
-# [link]https://www.linkedin.com/in/poonam-tech/
-# [link]https://www.naukri.com/mnjuser/profile?id=&altresid
+- 🔗 [LinkedIn](https://www.linkedin.com/in/poonam-tech/)
+- 🔗 [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)ttps://www.naukri.com/mnjuser/profile?id=&altresid
 ---
 
 ## 🚀 Currently working on
