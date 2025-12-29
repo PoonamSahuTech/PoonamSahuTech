@@ -8,8 +8,8 @@ I focus on delivering real-world solutions with predictive models, visualization
 
 ## 📌 Connect with me
 
-https://www.linkedin.com/in/poonam-tech/
-https://www.naukri.com/mnjuser/profile?id=&altresid
+# https://www.linkedin.com/in/poonam-tech/
+# https://www.naukri.com/mnjuser/profile?id=&altresid
 ---
 
 ## 🚀 Currently working on
